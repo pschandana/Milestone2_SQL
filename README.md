@@ -1,4 +1,4 @@
 __Structured Query Language__
 
--- __This file consist of different sql query tasks
-__
+-- This file consist of different sql query tasks
+
